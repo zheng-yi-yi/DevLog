@@ -4,7 +4,6 @@ import sidebar from './sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "docs",
   base: '/DevLog/', // 部署在 https://zheng-yi-yi.github.io/DevLog/
   
   title: "FullStack Dev Log",
